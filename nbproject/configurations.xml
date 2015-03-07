@@ -47,9 +47,6 @@
         </cTool>
         <linkerTool>
           <output>dist/libJNIDemoCdl.dll</output>
-          <linkerAddLib>
-            <pElem>C:/Users/brett/Desktop/ffmpeg-2.4.7/libavcodec</pElem>
-          </linkerAddLib>
         </linkerTool>
       </compileType>
       <item path="JNIDemo.c" ex="false" tool="0" flavor2="0">
